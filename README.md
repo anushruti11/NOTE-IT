@@ -7,8 +7,9 @@
 </tr>
 </table>
 
-## Demo
-Here is a working live demo : (https://noteitdown-mern.herokuapp.com/)
+## Functions
+- A web-based application for taking notes, with a user-friendly interface that allows users to create, edit, and manage their notes in a secure and reliable manner.
+- Leveraged Full-Stack MERN architecture to implement CRUD functionality, using technologies such as React JS, Redux, Express JS, and MongoDB to ensure high performance and scalability.
 
 ## Built with 
 
